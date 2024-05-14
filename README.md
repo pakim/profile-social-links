@@ -23,6 +23,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/pakim/profile-social-links)
+- Solution URL: [](https://pakim.github.io/profile-social-links/)
 - Live Site URL: [](https://github.com/pakim/profile-social-links)
 
