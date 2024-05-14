@@ -23,5 +23,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/pakim/profile-social-links)
-- Live Site URL: [Add live site URL here](https://pakim.github.io/profile-social-links/)
+- Solution URL: [https://github.com/pakim/profile-social-links](https://github.com/pakim/profile-social-links)
+- Live Site URL: [https://pakim.github.io/profile-social-links/](https://pakim.github.io/profile-social-links/)
